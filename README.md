@@ -1,3 +1,3 @@
-# simple-calc-C-WPF-
+# simple-calc-C-sharp-WPF-
 
 not finished yet
