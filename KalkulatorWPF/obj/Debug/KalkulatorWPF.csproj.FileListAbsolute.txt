@@ -1,0 +1,14 @@
+D:\Informatyka\WPF\KalkulatorWPF\bin\Debug\KalkulatorWPF.exe.config
+D:\Informatyka\WPF\KalkulatorWPF\bin\Debug\KalkulatorWPF.exe
+D:\Informatyka\WPF\KalkulatorWPF\bin\Debug\KalkulatorWPF.pdb
+D:\Informatyka\WPF\KalkulatorWPF\obj\Debug\KalkulatorWPF.csprojAssemblyReference.cache
+D:\Informatyka\WPF\KalkulatorWPF\obj\Debug\MainWindow.g.cs
+D:\Informatyka\WPF\KalkulatorWPF\obj\Debug\App.g.cs
+D:\Informatyka\WPF\KalkulatorWPF\obj\Debug\KalkulatorWPF_MarkupCompile.cache
+D:\Informatyka\WPF\KalkulatorWPF\obj\Debug\KalkulatorWPF_MarkupCompile.lref
+D:\Informatyka\WPF\KalkulatorWPF\obj\Debug\MainWindow.baml
+D:\Informatyka\WPF\KalkulatorWPF\obj\Debug\KalkulatorWPF.g.resources
+D:\Informatyka\WPF\KalkulatorWPF\obj\Debug\KalkulatorWPF.Properties.Resources.resources
+D:\Informatyka\WPF\KalkulatorWPF\obj\Debug\KalkulatorWPF.csproj.GenerateResource.cache
+D:\Informatyka\WPF\KalkulatorWPF\obj\Debug\KalkulatorWPF.exe
+D:\Informatyka\WPF\KalkulatorWPF\obj\Debug\KalkulatorWPF.pdb
